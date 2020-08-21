@@ -2,7 +2,7 @@
 
 Export [Tradind212](https://live.trading212.com) portfolio table to a CSV
 
-Here's the javascript code: [t212_export_csv.js](/t212_export_csv.js)
+Here's the javascript code: [t212_export_csv.js](/chrome-extension/t212_export_csv.js)
 
 The main purpose is to export symbol, quantity and price columns.
 
