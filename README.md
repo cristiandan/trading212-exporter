@@ -28,6 +28,9 @@ Here's a screen recording to explain the process
 A chrome extension is provided to export directly to a CSV file.
 Go to [Chrome WebStore](https://chrome.google.com/webstore/category/extensions) and download the extension, here's the direct [link(WAITING FOR GOOGLE APPROVAL)]()
 
+In the meantime if you want to install the chrome-extsion manually here the instructions in this video:
+
+[![Chrome Extension trading212.com CSV export](http://img.youtube.com/vi/MuGZT7_3Ivo/0.jpg)](https://youtu.be/MuGZT7_3Ivo)
 
 Here's a recording on how to use the extension and import the holdings on qualtrim:
 
