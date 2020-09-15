@@ -19,7 +19,7 @@ Run this code in your Chrome Browser console to genereate the CSV
 ## Chrome Extension
 
 A chrome extension is provided to export directly to a CSV file.
-Go to [Chrome WebStore](https://chrome.google.com/webstore/category/extensions) and download the extension, here's the direct [link(WAITING FOR GOOGLE APPROVAL)]()
+Go to [Chrome WebStore](https://chrome.google.com/webstore/category/extensions) and download the extension, here's the direct [link](https://chrome.google.com/webstore/detail/trading212-csv-exporter/pbmnfpbckdhhbcooafacfomhmiemcphf)
 
 In the meantime if you want to install the chrome-extsion manually here the instructions in this video:
 
